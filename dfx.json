@@ -4,6 +4,10 @@
       "main": "src/hello/main.mo",
       "type": "motoko"
     },
+    // "hello2": {
+    //   "main": "src/hello/main.mo",
+    //   "type": "motoko"
+    // },
     "hello_assets": {
       "dependencies": [
         "hello"
@@ -17,6 +21,7 @@
       ],
       "type": "assets"
     }
+    
   },
   "defaults": {
     "build": {
